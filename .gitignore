@@ -1,0 +1,16 @@
+node_modules/
+cypress/screenshots/
+cypress/videos/
+.github/
+*.md
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.p12
+*.pfx
+credentials/
+secrets/
+.DS_Store
+Thumbs.db
